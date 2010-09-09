@@ -96,4 +96,3 @@ f = function(n,i){
 	}
 };
 d.onmouseover = s.h;
-f(y,0);
